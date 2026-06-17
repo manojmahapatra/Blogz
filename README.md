@@ -13,3 +13,8 @@ https://engineering.block.xyz/blog/
 
 ### AI Kernels
 https://hamzaelshafie.bearblog.dev/dissecting-thunderkittens-anatomy-of-a-compact-dsl-for-high-performance-ai-kernels/
+
+### Papers
+https://arxiv.org/abs/2410.20399
+
+
