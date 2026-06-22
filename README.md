@@ -5,6 +5,7 @@ A list of interesting blogs/reads/papers.
 
 ### Github Links
 https://github.com/macshome/The-Wisdom-of-Quinn
+https://blog.calif.io/p/apple-internals-swift-in-the-kernel
 
 ### Cash App
 https://code.cash.app/
