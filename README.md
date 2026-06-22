@@ -7,6 +7,9 @@ A list of interesting blogs/reads/papers.
 https://github.com/macshome/The-Wisdom-of-Quinn
 https://blog.calif.io/p/apple-internals-swift-in-the-kernel
 
+### Other Links
+https://alisawuffles.notion.site/alisa-s-book-of-llms
+
 ### Cash App
 https://code.cash.app/
 
